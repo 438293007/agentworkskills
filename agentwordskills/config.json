@@ -1,0 +1,5 @@
+{
+  "default_template": "xaut",
+  "log_level": "INFO",
+  "backup_original": true
+}

@@ -1,0 +1,123 @@
+{
+  "school": "西安理工大学高科学院",
+  
+  "page": {
+    "top_margin_cm": 2.5,
+    "bottom_margin_cm": 2.0,
+    "left_margin_cm": 3.0,
+    "right_margin_cm": 3.0
+  },
+  
+  "body": {
+    "font_cn": "宋体",
+    "font_en": "Times New Roman",
+    "size": 12,
+    "line_spacing_exact": 23,
+    "first_line_indent_chars": 2
+  },
+  
+  "heading1": {
+    "font_cn": "黑体",
+    "font_en": "Times New Roman",
+    "size": 18,
+    "bold": true,
+    "space_before": 0.8,
+    "space_after": 0.5,
+    "alignment": 1
+  },
+  
+  "heading2": {
+    "font_cn": "黑体",
+    "font_en": "Times New Roman",
+    "size": 14,
+    "bold": true,
+    "space_before": 0.5,
+    "space_after": 0.5,
+    "alignment": 0
+  },
+  
+  "heading3": {
+    "font_cn": "黑体",
+    "font_en": "Times New Roman",
+    "size": 12,
+    "bold": true,
+    "space_before": 0.5,
+    "space_after": 0.5,
+    "alignment": 0
+  },
+  
+  "heading4": {
+    "font_cn": "黑体",
+    "font_en": "Times New Roman",
+    "size": 12,
+    "bold": true,
+    "space_before": 0.5,
+    "space_after": 0.5,
+    "alignment": 0
+  },
+  
+  "toc": {
+    "level1": {
+      "font_cn": "黑体",
+      "font_en": "Times New Roman",
+      "size": 14,
+      "bold": true,
+      "line_spacing": 23
+    },
+    "level2_3": {
+      "font_cn": "宋体",
+      "font_en": "Times New Roman",
+      "size": 12,
+      "bold": false,
+      "line_spacing": 23
+    }
+  },
+  
+  "figure": {
+    "title_font_cn": "宋体",
+    "title_font_en": "Times New Roman",
+    "title_size": 12,
+    "title_bold_number_only": true,
+    "line_spacing_exact": 23,
+    "space_before": 0,
+    "space_after": 0
+  },
+  
+  "table": {
+    "title_font_cn": "黑体",
+    "title_font_en": "Times New Roman",
+    "title_size": 12,
+    "title_bold": true,
+    "line_spacing_exact": 23,
+    "space_before": 0,
+    "space_after": 0,
+    "content_font_cn": "宋体",
+    "content_font_en": "Times New Roman",
+    "content_size": 10.5
+  },
+  
+  "reference": {
+    "font_cn": "宋体",
+    "font_en": "Times New Roman",
+    "size": 12,
+    "line_spacing_rule": 1,
+    "first_line_indent_chars": 0,
+    "alignment": 3
+  },
+  
+  "header_footer": {
+    "font_cn": "宋体",
+    "font_en": "Times New Roman",
+    "size": 10.5,
+    "odd_page_text": "2026届XXXX专业毕业设计(论文)",
+    "even_page_text": "学生姓名:学生课题名称"
+  },
+  
+  "cover": {
+    "title_font_cn": "宋体",
+    "title_size": 26,
+    "subtitle_font_cn": "宋体",
+    "subtitle_size": 22,
+    "subtitle_bold": true
+  }
+}
